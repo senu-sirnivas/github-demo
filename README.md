@@ -8,3 +8,6 @@ This is a new line.
 
 # Project Objectives
 Objective is to learn GitHub.
+
+# Resources
+Data not available (sensitive)
