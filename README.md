@@ -7,3 +7,4 @@ This is a new line.
 **Some description**
 
 # Project Objectives
+Objective is to learn GitHub.
